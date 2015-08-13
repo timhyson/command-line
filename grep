@@ -1,0 +1,5 @@
+SYNTAX:
+  `$grep <searchTerm> <searchSource>`
+
+FUNCTION:
+  search for a specified <searchTerm> contained within a specified <searchSource>
