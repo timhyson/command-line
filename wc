@@ -1,0 +1,5 @@
+SYNTAX:
+  `$wc <filename>
+
+FUNCTION:
+  carries out a word count of <filename> and returns total lines, words and characters
