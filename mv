@@ -1,0 +1,5 @@
+SYNTAX:
+  `$mv <loc/filename> <loc/destination>`
+
+FUNCTION:
+  move a file <loc/filename> to a new <loc/destination>
